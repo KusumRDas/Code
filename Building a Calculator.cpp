@@ -6,7 +6,7 @@ int main()
     int i,n,x,sum=0;
     float avg;
 
-    cout<<"How many numbers u want to enter :: ";
+    cout<<"How many numbers u want to enter :: ";  //Comment
     cin>>n;
 
     for(i=1;i<=n;++i)
